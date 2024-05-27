@@ -1,0 +1,9 @@
+.destaque{
+    background-color: rgba(7, 220, 244, 0.214);
+    font-size: 25px;
+    color: rgb(255, 0, 0);
+}
+
+.tabela th, td{
+    background-color: rgb(241, 237, 237);
+}
